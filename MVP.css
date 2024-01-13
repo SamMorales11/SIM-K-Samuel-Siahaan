@@ -6,10 +6,12 @@ body {
 }
 
 header {
-    background-color: #000;
-    color: white;
+    background-color: #1a1919;
+    color: rgb(231, 220, 220);
     text-align: center;
     padding: 15px 0px;
+    background-image: url("white cloud.jpg");
+    background-size: cover; 
 }
 
 header img {
@@ -27,7 +29,7 @@ nav ul {
     justify-content: center;
     list-style-type: none;
     padding: 0;
-    background-color: #d3d3d3;
+    background-color: #ded5d5;
 }
 
 nav li {
@@ -37,7 +39,7 @@ nav li {
 nav li a {
     font-weight: bold;
     font-size: 100%;
-    color: #000;
+    color: #121111;
     text-decoration: none;
     padding: 15px 30px;
     display: block;
@@ -57,7 +59,7 @@ main {
 }
 
 main img {
-    width: 220px;
+    width: 290px;
     height: 220px;
     float: right;
 }
@@ -100,7 +102,7 @@ button {
 }
 
 button:hover {
-    background-color: #000;
+    background-color: #dfd2d2;
 }
 
 footer {
