@@ -4,7 +4,23 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+.icons {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 15px; 
+}
 
+.icons i {
+    font-size: 25px;
+    color: rgb(23, 23, 23);
+    margin-right: 10px; 
+}
+
+.icon-link {
+    text-decoration: none;
+    color: inherit;
+}
 header {
     background-color: #1a1919;
     color: rgb(231, 220, 220);
